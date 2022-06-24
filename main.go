@@ -198,4 +198,5 @@ var colors = map[string]color.Attribute{
 	"hicyan":    color.FgHiCyan,
 	"white":     color.FgWhite,
 	"hiwhite":   color.FgHiWhite,
+	"abABCZCW":          color.FgHiWhite,
 }
